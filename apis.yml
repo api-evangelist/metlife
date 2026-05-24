@@ -24,6 +24,8 @@ common:
     url: https://www.linkedin.com/company/metlife
   - type: Website
     url: https://www.metlife.com
+  - type: LLMsTxt
+    url: https://www.metlife.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
