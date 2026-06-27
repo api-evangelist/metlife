@@ -24,7 +24,7 @@ common:
     url: https://www.linkedin.com/company/metlife
   - type: Website
     url: https://www.metlife.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.metlife.com/llms.txt
 maintainers:
   - FN: Kin Lane
