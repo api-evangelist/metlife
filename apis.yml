@@ -19,6 +19,10 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/metlife.png
 tags:
+  - Financial-Services
+  - Fortune 500
+  - Insurance
+tags_raw:
   - Financial Services
   - Fortune 500
   - Insurance
