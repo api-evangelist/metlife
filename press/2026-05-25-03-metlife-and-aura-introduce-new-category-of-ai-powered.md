@@ -1,7 +1,9 @@
 ---
 title: MetLife and Aura Introduce New Category of AI-Powered ...
 url: https://www.metlife.com/about-us/newsroom/2025/may/metlife-and-aura-introduce-new-category-of-ai-powered-tools-to-us-employer-benefits-channel-to-take-on-the-mental-health-crisis/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MetLife" press release artificial intelligence'
 position: 3
 source: serpapi-google

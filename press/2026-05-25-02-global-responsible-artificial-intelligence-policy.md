@@ -1,7 +1,9 @@
 ---
 title: Global Responsible Artificial Intelligence Policy
 url: https://www.metlife.com/about-us/corporate-governance/ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MetLife" press release artificial intelligence'
 position: 2
 source: serpapi-google

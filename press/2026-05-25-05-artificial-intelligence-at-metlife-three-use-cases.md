@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence at MetLife - Three Use Cases
 url: https://emerj.com/artificial-intelligence-at-metlife/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MetLife" press release artificial intelligence'
 position: 5
 source: serpapi-google
