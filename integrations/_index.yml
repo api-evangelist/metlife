@@ -15,3 +15,16 @@
   relationship: carrier-coverage
   status: not-a-workflow
   arazzo: null
+- slug: metlife-workday-own
+  label: Workday (own)
+  partner: workday
+  partner_name: Workday (own)
+  category: Industry
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://marketplace.workday.com/apps/586497/metlife-benefits-bridge-workday-wellness
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
